@@ -1,0 +1,15 @@
+Somnia Testnet Information
+--------------------------
+Network Name: Somnia Testnet
+RPC URL: https://rpc-testnet.somnia.network
+Chain ID: 1688
+Currency Symbol: SOM
+Block Explorer: https://explorer-testnet.somnia.network
+
+Testnet Faucet:
+You can get free SOM tokens from the official faucet to test smart contracts and transactions.
+
+Notes:
+- The Somnia Testnet is for development and testing only.
+- Tokens obtained here have no real value.
+- Use the testnet to deploy, test, and verify your smart contracts before going live on mainnet.
